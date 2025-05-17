@@ -19,10 +19,9 @@ A modern full-stack web application built with Next.js, Node.js, and PostgreSQL.
 - **Frontend & Backend:** [Next.js](https://nextjs.org/) (Full Stack)
 - **Server Runtime:** [Node.js](https://nodejs.org/)
 - **Database:** [PostgreSQL](https://www.postgresql.org/)
-- **ORM:** [Prisma](https://www.prisma.io/) or Sequelize (choose one)
-- **Authentication:** [NextAuth.js](https://next-auth.js.org/) or custom JWT
+- **Authentication:**  custom JWT
 - **Styling:** Tailwind CSS / SCSS / CSS Modules
-- **Deployment:** Vercel / Railway / Heroku
+ 
 
 ## 📦 Getting Started
 
